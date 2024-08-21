@@ -4,7 +4,7 @@
   <img src="/img/alfa-awus036acm.jpg" width=400px>
 </div>
 
-## Linux Driver for USB WiFi Adapters that are based on the RTL8812AU Chipset
+## Linux driver for USB WiFi adapters that are based on the RTL8812AU Chipset or earlier.
 
 - v5.13.6-23-g232107d9b.20210820 (Realtek) plus updates from the Linux community
 
