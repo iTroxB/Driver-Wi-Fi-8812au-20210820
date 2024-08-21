@@ -1,7 +1,7 @@
 # Driver Alfa AWUS036ACM ( 8812au.ko ) :rocket:
 
 <div align="center">
-  <img src="/img/alfa-awus036acm.jpg" width=500px>
+  <img src="/img/alfa-awus036acm.jpg" width=400px>
 </div>
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8812AU Chipset
